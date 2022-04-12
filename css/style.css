@@ -4805,7 +4805,7 @@ blockquote {
 	display: -ms-flexbox;
 	display: flex;
 	width: 100%;
-	min-height: 96px;
+	min-height: 80px;
 	padding-right: 3%;
 	padding-left: 3%;
 	-webkit-box-align: center;
@@ -6325,7 +6325,7 @@ blockquote {
 	padding: 96px 3% 64px
 }
 
-.header-section-dark-inner {
+.-inner {
 	padding: 176px 3% 92px;
 	background-color:#122d32
 }
