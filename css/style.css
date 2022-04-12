@@ -2462,7 +2462,7 @@ blockquote {
 
 .template-detail-block {
 	padding: 30px;
-	background-color:#323232;
+	background-color:#122d32;
 	box-shadow: 88px 88px 144px 0 rgba(43, 29, 103, .04)
 }
 
@@ -2538,7 +2538,7 @@ blockquote {
 }
 
 .neutral-900 {
-	background-color:#323232
+	background-color:#122d32
 }
 
 .neutral-800 {
@@ -3072,8 +3072,8 @@ blockquote {
 	-webkit-align-items: center;
 	-ms-flex-align: center;
 	align-items: center;
-	background-color:#323232;
-	background-image: radial-gradient(circle farthest-side at 50% -20%, rgba(44, 13, 95, .35),#323232 78%);
+	background-color:#122d32;
+	background-image: radial-gradient(circle farthest-side at 50% -20%, rgba(44, 13, 95, .35),#122d32 78%);
 	background-clip: border-box;
 	-webkit-text-fill-color: inherit
 }
@@ -3556,7 +3556,7 @@ blockquote {
 	-webkit-align-items: center;
 	-ms-flex-align: center;
 	align-items: center;
-	background-color:#323232;
+	background-color:#122d32;
 	background-image: url("https://global-uploads.webflow.com/60f997cdf2dbe758a7f94a3b/60f997cdf2dbe708eaf94a87_Customer%20Pattern.svg");
 	background-position: 50% 50%;
 	background-size: cover;
@@ -3814,7 +3814,7 @@ blockquote {
 
 .feature-section-dark {
 	padding: 100px 3%;
-	background-color:#323232;
+	background-color:#122d32;
 	background-image: url("https://global-uploads.webflow.com/60f997cdf2dbe758a7f94a3b/60f997cdf2dbe72da0f94aa1_Feature%20Set%20Pattern.svg");
 	background-position: 0 0;
 	background-size: cover;
@@ -3946,7 +3946,7 @@ blockquote {
 
 .video-section-dark {
 	padding: 72px 3% 120px;
-	background-color:#323232;
+	background-color:#122d32;
 	background-image: url("https://global-uploads.webflow.com/60f997cdf2dbe758a7f94a3b/60f997cdf2dbe72da0f94aa1_Feature%20Set%20Pattern.svg");
 	background-position: 0 0;
 	background-size: cover;
@@ -4058,7 +4058,7 @@ blockquote {
 
 .content-section-dark {
 	padding: 72px 3%;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .content-card-dark {
@@ -4110,7 +4110,7 @@ blockquote {
 
 .body-dark-medium {
 	margin-bottom: 0;
-	color:#323232;
+	color:#122d32;
 	font-size: 16px;
 	line-height: 32px;
 	font-weight: 500;
@@ -4199,7 +4199,7 @@ blockquote {
 
 .body-quote {
 	margin-bottom: 16px;
-	color:#323232;
+	color:#122d32;
 	font-size: 18px;
 	line-height: 32px;
 	font-style: italic;
@@ -4219,7 +4219,7 @@ blockquote {
 }
 
 .testimonial-author {
-	color:#323232;
+	color:#122d32;
 	line-height: 24px;
 	font-weight: 700;
 	text-transform: uppercase
@@ -4308,7 +4308,7 @@ blockquote {
 	-webkit-align-items: center;
 	-ms-flex-align: center;
 	align-items: center;
-	color:#323232;
+	color:#122d32;
 	font-size: 16px;
 	font-weight: 500;
 	text-decoration: none
@@ -4598,7 +4598,7 @@ blockquote {
 
 .testimonial-section-dark {
 	padding: 100px 3% 120px;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .background-dark-800 {
@@ -4814,7 +4814,7 @@ blockquote {
 	align-items: center;
 	border-bottom: 1px solid transparent;
 	border-radius: 1px;
-	background-color:#323232;
+	background-color:#122d32;
 	-webkit-transition: background-color .2s;
 	transition: background-color .2s;
 	color: #a0adc2
@@ -5243,7 +5243,7 @@ blockquote {
 
 .value-section-dark {
 	padding: 100px 3% 120px;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .blog-section {
@@ -5314,7 +5314,7 @@ blockquote {
 
 .blog-section-dark {
 	padding: 62px 3%;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .blog-section-dark.blog-header {
@@ -5395,7 +5395,7 @@ blockquote {
 	background-color: #f8f7fc;
 	-webkit-transition: .2s;
 	transition: .2s;
-	color:#323232;
+	color:#122d32;
 	font-weight: 600
 }
 
@@ -5405,7 +5405,7 @@ blockquote {
 
 .title-dark {
 	margin-bottom: 16px;
-	color:#323232;
+	color:#122d32;
 	font-size: 14px;
 	line-height: 24px;
 	font-weight: 700;
@@ -5806,7 +5806,7 @@ blockquote {
 
 .job-section-dark {
 	padding: 92px 3%;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .job-wrapper-dark {
@@ -6128,7 +6128,7 @@ blockquote {
 
 .faq-section-dark {
 	padding: 72px 3%;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .faq-wrapper-dark {
@@ -6327,7 +6327,7 @@ blockquote {
 
 .header-section-dark-inner {
 	padding: 176px 3% 92px;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .header-grid-inner {
@@ -6410,7 +6410,7 @@ blockquote {
 
 .team-section-dark {
 	padding: 100px 3%;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .team-grid {
@@ -6510,7 +6510,7 @@ blockquote {
 
 .team-section-grey {
 	padding: 72px 3%;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .blog-header-wrapper {
@@ -6624,7 +6624,7 @@ blockquote {
 
 .register-account {
 	margin-top: 10px;
-	color:#323232;
+	color:#122d32;
 	font-size: 14px;
 	font-weight: 500
 }
@@ -6743,7 +6743,7 @@ blockquote {
 
 .header-section-dark-blog {
 	padding: 216px 3% 48px;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .culture-section-dark {
@@ -7037,7 +7037,7 @@ blockquote {
 
 .company-section-dark {
 	padding: 72px 3%;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .gallery-row-centre {
@@ -7053,7 +7053,7 @@ blockquote {
 
 .gallery-section-dark {
 	padding: 72px 3%;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .title-wrap {
@@ -7093,7 +7093,7 @@ blockquote {
 }
 
 .author-name {
-	color:#323232;
+	color:#122d32;
 	line-height: 24px;
 	font-weight: 600;
 	letter-spacing: 1px;
@@ -7102,7 +7102,7 @@ blockquote {
 
 .blog-section-related {
 	padding: 72px 3%;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .blog-author-centre {
@@ -7270,7 +7270,7 @@ blockquote {
 }
 
 .body-button {
-	color:#323232;
+	color:#122d32;
 	line-height: 24px;
 	font-weight: 500
 }
@@ -7478,7 +7478,7 @@ blockquote {
 	grid-template-columns: 132px 2fr;
 	-ms-grid-rows: auto;
 	grid-template-rows: auto;
-	color:#323232
+	color:#122d32
 }
 
 .sidebar-thumbnail {
@@ -7548,7 +7548,7 @@ blockquote {
 .list {
 	margin-top: 24px;
 	padding-left: 32px;
-	color:#323232;
+	color:#122d32;
 	line-height: 32px
 }
 
@@ -7562,7 +7562,7 @@ blockquote {
 }
 
 .price-capital {
-	color:#323232;
+	color:#122d32;
 	font-weight: 700;
 	text-transform: uppercase
 }
@@ -7595,7 +7595,7 @@ blockquote {
 
 .list-item {
 	margin-bottom: 16px;
-	color:#323232
+	color:#122d32
 }
 
 .heading-medium {
@@ -7688,7 +7688,7 @@ blockquote {
 }
 
 .pricing-grid-text-dark {
-	color:#323232;
+	color:#122d32;
 	font-size: 16px;
 	line-height: 32px;
 	font-weight: 500
@@ -7804,7 +7804,7 @@ blockquote {
 }
 
 .body-dark {
-	background-color:#323232;
+	background-color:#122d32;
 	background-image: url("https://global-uploads.webflow.com/60f997cdf2dbe758a7f94a3b/611423ae080ec60cec0c494c_gradient4.svg");
 	background-position: 50% 0;
 	background-size: 100%;
@@ -8735,7 +8735,7 @@ blockquote {
 
 .cta-section-dark {
 	padding: 60px 3%;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .title-wrapper {
@@ -8852,7 +8852,7 @@ blockquote {
 
 .pricing-section-dark {
 	padding: 64px 3%;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .tabs-menu-grey {
@@ -8963,7 +8963,7 @@ blockquote {
 	-webkit-align-items: center;
 	-ms-flex-align: center;
 	align-items: center;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .page-loader-animation {
@@ -9010,7 +9010,7 @@ blockquote {
 
 .header-section-inner-dark {
 	padding: 96px 3% 64px;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .content-block-modern-dark {
@@ -9051,7 +9051,7 @@ blockquote {
 
 .header-section-dark-contact {
 	padding: 96px 3% 64px;
-	background-color:#323232;
+	background-color:#122d32;
 	background-image: url("https://global-uploads.webflow.com/60f997cdf2dbe758a7f94a3b/60f997cdf2dbe7510df94b4a_Contact%20Header%20Pattern.svg");
 	background-position: 50% 50%;
 	background-size: contain;
@@ -9060,7 +9060,7 @@ blockquote {
 
 .contact-section-dark {
 	padding: 96px 3%;
-	background-color:#323232;
+	background-color:#122d32;
 	background-image: url("https://global-uploads.webflow.com/60f997cdf2dbe758a7f94a3b/60f997cdf2dbe7158af94b1f_Contact%20Pattern.svg");
 	background-position: 50% 50%;
 	background-size: contain;
@@ -9075,7 +9075,7 @@ blockquote {
 	padding-left: 24px;
 	border: 1px solid #313d50;
 	border-radius: 500px;
-	background-color:#323232;
+	background-color:#122d32;
 	-webkit-transition: .2s;
 	transition: .2s;
 	color: #61738e;
@@ -9116,7 +9116,7 @@ blockquote {
 	padding-left: 24px;
 	border: 1px solid #313d50;
 	border-radius: 16px;
-	background-color:#323232;
+	background-color:#122d32;
 	-webkit-transition: .2s;
 	transition: .2s
 }
@@ -9801,7 +9801,7 @@ blockquote {
 }
 
 .body {
-	background-color:#323232
+	background-color:#122d32
 }
 
 .div-block-5 {
@@ -9822,12 +9822,12 @@ blockquote {
 .body-2,
 .body-3,
 .body-4 {
-	background-color:#323232
+	background-color:#122d32
 }
 
 .nav-trigger {
 	height: 0;
-	background-color:#323232
+	background-color:#122d32
 }
 
 .heading-5.text-neutral-300.max-width {
@@ -10656,7 +10656,7 @@ blockquote {
 	.nav-menu {
 		top: 70px;
 		height: auto;
-		background-color:#323232
+		background-color:#122d32
 	}
 	.navigation-menu {
 		margin-left: 10px;
@@ -10823,7 +10823,7 @@ blockquote {
 		z-index: 99;
 		overflow: visible;
 		min-height: 80px;
-		background-color:#323232
+		background-color:#122d32
 	}
 	.cta-block-light {
 		padding-bottom: 0;
