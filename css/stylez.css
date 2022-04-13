@@ -10,7 +10,7 @@ body{
   
 }
 .popup{
-    background-color: rgba(133, 165, 208, 0.99); ;
+    background-color: #282f55; 
     width: 90vw;
     height: 550px ;
     position: fixed;
